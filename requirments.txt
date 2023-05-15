@@ -1,0 +1,8 @@
+# apt install 
+python3-tk
+
+# pip install
+pandas==1.2.0   #be carefull about security at old version
+xlrd==1.2.0     #be carefull about security at old version
+tkinter
+PySimpleGUI
